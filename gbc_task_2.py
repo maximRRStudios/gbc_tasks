@@ -8,7 +8,7 @@ s = “abcpldpseplae”, dictionary = [‘ale’, ‘apple’, ‘monkey’, ‘
 """
 
 
-def find_longest_word(letters, words):
+def find_longest_word(letters: str, words: list) -> str:
     """
     отдает длинное слово
     """
